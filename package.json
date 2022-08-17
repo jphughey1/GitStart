@@ -9,7 +9,7 @@
     "gatsby-plugin-google-analytics": "^1.0.31",
     "gatsby-plugin-react-helmet": "^2.0.11",
     "gatsby-plugin-sitemap": "^1.2.25",
-    "gatsby-source-filesystem": "^1.5.39",
+    "gatsby-source-filesystem": "^4.21.0",
     "gatsby-transformer-remark": "^1.7.44",
     "react-helmet": "^5.2.0"
   },
